@@ -4,7 +4,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  joanaferrao_mgt@outlook.pt
+  <a href="https://www.linkedin.com/in/joana-ferr%C3%A3o-76530527b/">LinkedIn</a>
+  Email: joanaferrao_mgt@outlook.pt
 </p>
 
 <br>
